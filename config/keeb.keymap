@@ -10,7 +10,7 @@
 
                 default_layer {
                         bindings = <
-   &kp ESC   &kp 1 &kp 2    &kp 3    &kp 4   &kp 5     &kp F1
+   &kp ESC   &kp NUMBER_1 &kp NUMBER_2    &kp NUMBER_3    &kp NUMBER_4   &kp NUMBER_5     &kp F1
    &kp TAB   &kp Q &kp W    &kp E    &kp R   &kp T     &kp F2
    &kp LCTRL &kp A &kp S    &kp D    &kp F   &kp G     &kp F3
    &mo 1     &kp Z &kp X    &kp C    &kp V   &kp B     &kp F4

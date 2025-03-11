@@ -29,7 +29,7 @@
    &none &none    &none     &none     &none &none &kp C_VOL_UP
    &none &kp LEFT &kp UP    &none     &none &none &kp C_VOL_DN
    &none &none    &kp DOWN  &kp RIGHT &none &none &kp C_PLAY_PAUSE
-   &none &none    &none     &none     &none &none &tog 3
+   &none &none    &none     &none     &none &none &tog 2
                    &none    &none     &none &none &none      
                                                                 &kp LG(L)           &none &none   &none &none &none &none
                                                                 &kp LG(LS(S)) &none &none &none &none &none &none
@@ -43,7 +43,7 @@
    &kp F8        &kp NUMBER_1 &kp NUMBER_2    &kp NUMBER_3    &kp NUMBER_4   &kp NUMBER_5     &kp C_VOL_UP
    &kp LA(F4)  &kp G      &kp Q    &kp V    &kp E   &kp R     &kp C_VOL_DN
    &kp LCTRL     &kp LSHIFT &kp A    &kp W    &kp D   &kp F     &kp LG(LS(S))
-   &mo 4         &kp TAB    &kp Z    &kp S    &kp X   &kp C     &tog 0
+   &mo 3         &kp TAB    &kp Z    &kp S    &kp X   &kp C     &tog 0
                  &kp LALT   &kp LGUI &kp RET &kp SPACE &kp T
                                                                 &kp LC(LS(LA(Q))) &kp LC(LS(LA(W))) &kp LC(LS(LA(E))) &kp LC(LS(LA(R))) &kp LC(LS(LA(T))) &kp LC(LS(LA(Y))) &kp F1
                                                                 &kp LC(LS(LA(U))) &kp LC(LS(LA(I))) &kp LC(LS(LA(O))) &kp LC(LS(LA(P))) &kp LC(LS(LA(A))) &kp LC(LS(LA(S))) &kp F2

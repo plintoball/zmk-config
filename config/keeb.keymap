@@ -32,7 +32,7 @@
    &none &none    &none     &none     &none &none &tog 3
                    &none    &none     &none &none &none      
                                                                 &kp LG(L)           &none &none   &none &none &none &none
-                                                                &kp LG(LS(S)) &none &none   &none &none &none &none
+                                                                &kp LG(LS(S)) &none &none &none &none &none &none
                                                                 &bt BT_NXT          &none &none   &none &none &none &none
                                                                 &bt BT_CLR          &none &none   &none &none &none &none
                                                                 &none               &none &kp DEL &none &none
@@ -45,11 +45,11 @@
    &kp LCTRL     &kp LSHIFT &kp A    &kp W    &kp D   &kp F     &kp LG(LS(S))
    &mo 4         &kp TAB    &kp Z    &kp S    &kp X   &kp C     &tog 0
                  &kp LALT   &kp LGUI &kp RET &kp SPACE &kp T
-                                                                &kp LC(LS(LA(1))) &kp LC(LS(LA(2))) &kp LC(LS(LA(3))) &kp LC(LS(LA(4))) &kp LC(LS(LA(5))) &kp LC(LS(LA(6))) &kp F1
-                                                                &kp LC(LS(LA(7))) &kp LC(LS(LA(8))) &kp LC(LS(LA(9))) &kp LC(LS(LA(0))) &kp LC(LS(LA(q))) &kp LC(LS(LA(w))) &kp F2
-                                                                &kp LC(LS(LA(e))) &kp LC(LS(LA(r))) &kp LC(LS(LA(t))) &kp LC(LS(LA(y))) &kp LC(LS(LA(u))) &kp LC(LS(LA(i))) &kp F3
-                                                                &kp LC(LS(LA(o))) &kp LC(LS(LA(p))) &kp LC(LS(LA(a))) &kp LC(LS(LA(s))) &kp LC(LS(LA(d))) &kp LC(LS(LA(f))) &kp F4
-                                                                &kp LC(LS(LA(g))) &kp LC(LS(LA(h))) &kp LC(LS(LA(j))) &kp LC(LS(LA(k))) &kp LC(LS(LA(l)))
+                                                                &kp LC(LS(LA(q))) &kp LC(LS(LA(w))) &kp LC(LS(LA(e))) &kp LC(LS(LA(r))) &kp LC(LS(LA(t))) &kp LC(LS(LA(y))) &kp F1
+                                                                &kp LC(LS(LA(u))) &kp LC(LS(LA(i))) &kp LC(LS(LA(o))) &kp LC(LS(LA(p))) &kp LC(LS(LA(a))) &kp LC(LS(LA(s))) &kp F2
+                                                                &kp LC(LS(LA(d))) &kp LC(LS(LA(f))) &kp LC(LS(LA(g))) &kp LC(LS(LA(h))) &kp LC(LS(LA(j))) &kp LC(LS(LA(k))) &kp F3
+                                                                &kp LC(LS(LA(l))) &kp LC(LS(LA(z))) &kp LC(LS(LA(x))) &kp LC(LS(LA(c))) &kp LC(LS(LA(v))) &kp LC(LS(LA(b))) &kp F4
+                                                                &kp LC(LS(LA(n))) &kp LC(LS(LA(m))) &kp LC(LS(LA(NUMBER_1))) &kp LC(LS(LA(NUMBER_2))) &kp LC(LS(LA(NUMBER_3)))
                         >;
                 };
                 game_mode_upper_layer {

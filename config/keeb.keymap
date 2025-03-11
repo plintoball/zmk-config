@@ -50,6 +50,7 @@
                                                                 &kp LC(LS(LA(e))) &kp LC(LS(LA(r))) &kp LC(LS(LA(t))) &kp LC(LS(LA(y))) &kp LC(LS(LA(u))) &kp LC(LS(LA(i))) &kp F3
                                                                 &kp LC(LS(LA(o))) &kp LC(LS(LA(p))) &kp LC(LS(LA(a))) &kp LC(LS(LA(s))) &kp LC(LS(LA(d))) &kp LC(LS(LA(f))) &kp F4
                                                                 &kp LC(LS(LA(g))) &kp LC(LS(LA(h))) &kp LC(LS(LA(j))) &kp LC(LS(LA(k))) &kp LC(LS(LA(l)))
+                        >;
                 };
                 game_mode_upper_layer {
                         bindings = <

@@ -45,11 +45,11 @@
    &kp LCTRL     &kp LSHIFT &kp A    &kp W    &kp D   &kp F     &kp LG(LS(S))
    &mo 3         &kp TAB    &kp Z    &kp S    &kp X   &kp C     &tog 2
                  &kp LALT   &kp LGUI &kp RET &kp SPACE &kp T
-                                                                &kp LC(LS(LA(Q))) &kp LC(LS(LA(W))) &kp LC(LS(LA(E))) &kp LC(LS(LA(R))) &kp LC(LS(LA(T))) &kp LC(LS(LA(Y))) &kp F1
-                                                                &kp LC(LS(LA(U))) &kp LC(LS(LA(I))) &kp LC(LS(LA(O))) &kp LC(LS(LA(P))) &kp LC(LS(LA(A))) &kp LC(LS(LA(S))) &kp F2
-                                                                &kp LC(LS(LA(D))) &kp LC(LS(LA(F))) &kp LC(LS(LA(G))) &kp LC(LS(LA(H))) &kp LC(LS(LA(J))) &kp LC(LS(LA(K))) &kp F3
-                                                                &kp LC(LS(LA(L))) &kp LC(LS(LA(Z))) &kp LC(LS(LA(X))) &kp LC(LS(LA(C))) &kp LC(LS(LA(V))) &kp LC(LS(LA(B))) &kp F4
-                                                                &kp LC(LS(LA(N))) &kp LC(LS(LA(M))) &kp LC(LS(LA(NUMBER_1))) &kp LC(LS(LA(NUMBER_2))) &kp LC(LS(LA(NUMBER_3)))
+                                                                &kp F13 &kp F14 &kp F15 &kp F16 &kp F17 &kp F18 &kp F19 
+                                                                &kp F21 &kp F22 &kp F23 &kp F24 &kp LS(F13) &kp LS(F14) &kp LS(F15)
+                                                                &kp F20 &kp LS(F16) &kp LS(F17) &kp LS(F18) &kp LS(F19) &kp LS(F20) &kp LS(F21)
+                                                                &kp LS(F22) &kp LS(F23) &kp LS(F24) &kp LS(LC(F13)) &kp LS(LC(F14)) &kp LS(LC(F15)) &kp LS(LC(F16))
+                                                                &kp LS(LC(F17)) &kp LS(LC(F18)) &kp LS(LC(F19)) &kp LS(LC(F20)) &kp LS(LC(F21))
                         >;
                 };
                 game_mode_upper_layer {

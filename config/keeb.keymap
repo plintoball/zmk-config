@@ -12,30 +12,30 @@
                 compatible = "zmk,keymap";
                 default_layer {
                         bindings = <
-   &kp ESC   &kp NUMBER_1 &kp NUMBER_2    &kp NUMBER_3    &kp NUMBER_4   &kp NUMBER_5     &kp F1
-   &kp TAB   &kp Q &kp W    &kp F    &kp P   &kp G     &kp F2
-   &kp LCTRL &kp A &kp R    &kp S    &kp T   &kp D     &kp F3
-   &mo 1     &kp Z &kp X    &kp C    &kp V   &kp B     &kp F4
-                &kp LALT &kp LGUI &kp RET &kp SPACE &kp LSHIFT
-                                                                &kp F5     &kp NUMBER_6     &kp NUMBER_7    &kp NUMBER_8     &kp NUMBER_9     &kp NUMBER_0    &kp MINUS
-                                                                &kp F6     &kp J     &kp L    &kp U     &kp Y     &kp SEMI &kp EQUAL
-                                                                &kp F7     &kp H     &kp N    &kp E     &kp I     &kp O    &kp APOS
-                                                                &kp F8     &kp K     &kp M    &kp COMMA &kp DOT   &kp FSLH &kp BSLH
-                                                                &kp RSHIFT &kp SPACE &kp BSPC &kp LEFT_BRACKET    &kp RIGHT_BRACKET
+   &kp ESC   &kp N1 &kp N2   &kp N3   &kp N4  &kp N5    &kp C_VOL_UP
+   &kp TAB   &kp Q  &kp W    &kp F    &kp P   &kp G     &kp C_VOL_DN
+   &kp LCTRL &kp A  &kp R    &kp S    &kp T   &kp D     &kp C_PLAY_PAUSE
+   &mo 1     &kp Z  &kp X    &kp C    &kp V   &kp B     &tog 2
+                    &kp LALT &kp LGUI &kp RET &kp SPACE &kp LSHFT
+                                                                                &kp LG(L)     &kp N6    &kp N7   &kp N8    &kp N9    &kp N0   &kp MINUS
+                                                                                &kp LG(LS(S)) &kp J     &kp L    &kp U     &kp Y     &kp SEMI &kp EQUAL
+                                                                                &bt BT_NXT    &kp H     &kp N    &kp E     &kp I     &kp O    &kp APOS
+                                                                                &bt BT_CLR    &kp K     &kp M    &kp COMMA &kp DOT   &kp FSLH &kp BSLH
+                                                                                &kp RSHFT     &kp SPACE &kp BSPC &kp LBKT  &kp RBKT
                         >;
                 };
                 upper_layer {
                         bindings = <
-   &none &none    &none     &none     &none &none &kp C_VOL_UP
-   &none &kp LEFT &kp UP    &none     &none &none &kp C_VOL_DN
-   &none &none    &kp DOWN  &kp RIGHT &none &none &kp C_PLAY_PAUSE
-   &none &none    &none     &none     &none &none &tog 2
-                   &none    &none     &none &none &none      
-                                                                &kp LG(L)           &none &none   &none &none &none &none
-                                                                &kp LG(LS(S))       &none &none   &none &none &none &none
-                                                                &bt BT_NXT          &none &none   &none &none &none &none
-                                                                &bt BT_CLR          &none &none   &none &none &none &none
-                                                                &none               &none &kp DEL &none &none
+   &kp GRAVE &none    &none     &none     &none &none &kp F1
+   &none     &kp LEFT &kp UP    &none     &none &none &kp F2
+   &none     &none    &kp DOWN  &kp RIGHT &none &none &kp F3
+   &none     &none    &none     &none     &none &none &kp F4
+                      &none     &none     &none &none &none      
+                                                                                &kp F5   &kp F9  &none   &none &none &none &none
+                                                                                &kp F6   &kp F10 &none   &none &none &none &none
+                                                                                &bt F7   &kp F11 &none   &none &none &none &none
+                                                                                &bt F8   &kp F12 &none   &none &none &none &none
+                                                                                &none    &INS    &kp DEL &none &none
                         >;
                 };
                 game_mode_default_layer {

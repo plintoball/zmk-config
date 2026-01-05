@@ -33,9 +33,9 @@
                       &none     &none     &none &none &none      
                                                                                 &kp F5   &kp F9  &none   &none &none &none &none
                                                                                 &kp F6   &kp F10 &none   &none &none &none &none
-                                                                                &bt F7   &kp F11 &none   &none &none &none &none
-                                                                                &bt F8   &kp F12 &none   &none &none &none &none
-                                                                                &none    &INS    &kp DEL &none &none
+                                                                                &kp F7   &kp F11 &none   &none &none &none &none
+                                                                                &kp F8   &kp F12 &none   &none &none &none &none
+                                                                                &none    &kp INS &kp DEL &none &none
                         >;
                 };
                 game_mode_default_layer {
